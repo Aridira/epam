@@ -1,0 +1,2 @@
+C:\Users\Ira\Desktop\epam-master\lab4\SeleniumTest\bin\Debug\SeleniumTest.exe.config
+C:\Users\Ira\Desktop\Selenium\SeleniumTest\bin\Debug\SeleniumTest.exe.config
