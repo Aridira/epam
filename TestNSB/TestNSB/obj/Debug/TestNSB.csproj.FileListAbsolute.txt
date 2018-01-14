@@ -1,2 +1,0 @@
-C:\Users\Ira\Desktop\TestNSB\TestNSB\bin\Debug\TestNSB.exe.config
-C:\Users\Ira\Desktop\TestNSB\TestNSB\obj\Debug\TestNSB.csprojResolveAssemblyReference.cache
