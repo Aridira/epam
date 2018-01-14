@@ -1,0 +1,4 @@
+C:\Users\Ira\Desktop\TestNSB\TestNSB\bin\Debug\TestNSB.exe.config
+C:\Users\Ira\Desktop\TestNSB\TestNSB\obj\Debug\TestNSB.csprojResolveAssemblyReference.cache
+E:\test\ira\epam-master\TestNSB\TestNSB\obj\Debug\TestNSB.csprojResolveAssemblyReference.cache
+E:\test\ira\epam-master\TestNSB\TestNSB\obj\Debug\TestNSB.csproj.CoreCompileInputs.cache
